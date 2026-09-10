@@ -32,7 +32,7 @@ without publishing the implementation.
 
 ## Status
 
-Actively developed. Not yet published to the Chrome Web Store —
+Actively developed. Not yet published to the Chrome Web Store -
 link coming soon.
 
 ## Get in touch
